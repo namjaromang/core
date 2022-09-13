@@ -1,0 +1,16 @@
+#DI
+
+
+#AOP
+
+
+
+#VALIDATION
+
+
+#RESOURCES
+
+#SPEL
+
+
+#NULL SAFETY
